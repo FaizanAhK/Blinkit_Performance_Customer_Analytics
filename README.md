@@ -1,5 +1,9 @@
 # Blinkit_Performance_Customer_Analytics
 
+## Project Background
+
+Blinkit, an Indian e-commerce company founded in 2013, specializes in sellin using Mobile application to order groceries and products online. I'm partnering with the Head of Operations To conduct a comprehensive analysis of Blinkit's sales performance, Customer Satisfaction and Inventory Distribution to identify key insights and oppurtunities for optimization using various KPIs and visualizations using Power BI.
+
 ## Business Requirement
 
 To conduct a comprehensive analysis of Blinkit's sales performance, Customer Satisfaction and Inventory Distribution to identify key insights and oppurtunities for optimization using various KPIs and visualizations using Power BI.
