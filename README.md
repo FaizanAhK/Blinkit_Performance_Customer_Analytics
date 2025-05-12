@@ -49,3 +49,63 @@ To conduct a comprehensive analysis of Blinkit's sales performance, Customer Sat
 **3. All Metrics by Outlet Types:**
 - **Objective:** Provide a comprehensive view of all key metrics(Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.
 - **Chart Type:** Matrix Card.
+
+
+## Dashboard
+
+<img src="blinkit_dashboard.png" alt="blinkit_dashboard" width="700"/>
+
+
+
+## Insights
+
+### Sales Performance
+
+- Total Sales: $1.20M — healthy performance overall.
+
+- Average Sales per item: $141 — indicates moderate individual item sales.
+
+### High contributing categories:
+
+- Regular fat items ($776.32K) perform better than low fat items ($425.36K).
+
+- **Top-selling item types:** Fruits, Snacks, Household, and Frozen foods (~$0.18M each).
+
+### Outlet Analysis By Size:
+
+- Medium outlets dominate with $507.90K in sales.
+
+- Small outlets contribute $248.99K — may have untapped potential.
+
+- High-size outlets bring in $444.79K — strong performers but may be underutilized.
+
+- Sales peaked around 2018 ($205K) — might indicate strategic expansion or demand surge.
+
+- A dip in 2021-22 — possibly due to COVID or operational shifts.
+
+### Geographical Insights
+
+- Tier 3 cities lead with $472.13K in sales — suggests strong Blinkit adoption in smaller cities.
+
+- Tier 1 cities are lowest at $336.40K, possibly due to heavy competition or saturation.
+
+### Outlet Type Performance
+
+- Supermarket Type1 dominates in all KPIs — indicating it's the most efficient and well-stocked type.
+
+- Grocery stores have the highest item visibility (0.10), suggesting better individual product discovery.
+
+### Opportunities for Optimization
+
+- Focus Marketing in Tier 1 Cities: Low sales here indicate room for promotional growth.
+
+- Expand Medium-Size Outlets: Given their high sales, consider more investments here.
+
+- Optimize Underperforming Item Types: Seafood, Starch, and Others underperform — may need bundling or removal.
+
+- Explore Low-Fat Trends: Though lower in total sales, low-fat products are gaining traction — a future growth point.
+
+- Track Recovery Post-2020: Analyze reasons for the dip in sales after 2018 peak and strategize accordingly.
+
+
+
