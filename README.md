@@ -43,7 +43,7 @@ To conduct a comprehensive analysis of Blinkit's sales performance, Customer Sat
 - **Chart Type:** Donut/Pie Chart.
 
 **2. Sales by Outlet Location:**
-- **Objective:** Assess the geographic distribution of sales across different locations.
+- **Objective:** Assess the geographic distribution of sales across diffrent locations.
 - **Chart Type:** Funnel Map
 
 **3. All Metrics by Outlet Types:**
